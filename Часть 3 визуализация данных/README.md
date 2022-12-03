@@ -66,6 +66,7 @@ https://video.ittensive.com/python-advanced/data-44-structure-4.csv.gz
 https://video.ittensive.com/python-advanced/russia.json
 Выведите для каждого региона количество объектов в нем.
 Посчитайте число объектов культурного наследия в Татарстане. 
+
 __Метод решения:__
 1. Подключим библиотеку pandas, geopandas, matplotlib.pyplot, descartes.
 2. Загрузим данные и посмотрим на них, так как данные достаточно объемные лучше скачать и пользоваться из локальной директории.
